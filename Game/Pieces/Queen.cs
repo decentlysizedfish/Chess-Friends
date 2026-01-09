@@ -1,0 +1,4 @@
+namespace CsAndPChess.Game.Piece
+{
+
+}
