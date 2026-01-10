@@ -1,10 +1,11 @@
-// Each tile will have a position
+// Each tile will have a position as well as if its occupied
 namespace CsAndPChess.Game.Board
 {
-    public readonly struct Tile
+    public struct Tile
     {
-        public int Rank { get; }  // 1 through 8 (representing '1' through '8') x
-        public int File { get; } // 1 through 8 (representing 'a' through 'h') y
-
+        public readonly string Name;
+        public readonly int Rank; // X
+        public readonly int File; // Y
+        public bool HasMoved;
     }
 }

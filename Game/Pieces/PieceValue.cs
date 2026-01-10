@@ -7,6 +7,6 @@ namespace CsAndPChess.Game.Pieces
         public PieceType Knight = 3;
         public PieceType Bishop = 3;
         public PieceType Queen = 9;
-        public PieceType King = 0;
+        public PieceType King = 20;
     }
 }

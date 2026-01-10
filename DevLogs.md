@@ -2,6 +2,20 @@
 
 <details>
 
+<summary> 1/10/26 </summary>
+
+<br>
+
+- briefly began board set up
+- piece class simplified
+- all log keeping track board states will be handled by board directly
+
+</details>
+
+<br>
+
+<details>
+
 <summary> 1/8/26 </summary>
 
 <br>
